@@ -1,0 +1,10 @@
+{
+  "name": "llm-client",
+  "version": "1.0.0",
+  "description": "Agnostic LLM Client",
+  "main": "index.js",
+  "dependencies": {
+    "@google/genai": "^0.1.2",
+    "openai": "^4.0.0"
+  }
+}
